@@ -1,0 +1,9 @@
+@article{:/publisher/Science China Press/journal/SCIENTIA SINICA Informationis///10.1360/SSI-2023-0197,
+  author = "zhong jincheng,ma haoyu,long mingsheng,wang jianmin",
+  title = "基于深度强化学习和知识迁移的飞机装配脉动生产线调度方法",
+  journal = "SCIENTIA SINICA Informationis",
+  year = "2023",
+ pages = "-",
+  url = "http://www.sciengine.com/publisher/Science China Press/journal/SCIENTIA SINICA Informationis///10.1360/SSI-2023-0197,
+  doi = "https://doi.org/10.1360/SSI-2023-0197"
+}

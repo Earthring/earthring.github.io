@@ -1,0 +1,9 @@
+@inproceedings{zhong2023bi,
+  title={Bi-tuning: Efficient Transfer from Pre-trained Models},
+  author={Zhong, Jincheng and Ma, Haoyu and Wang, Ximei and Kou, Zhi and Long, Mingsheng},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={357--373},
+  year={2023},
+  organization={Springer}
+}
+

@@ -1,22 +1,35 @@
 main:
+  - title: "Harmony World Models: Boosting Sample Efficiency for Model-based Reinforcement Learning"
+    authors:  <strong>Haoyu Ma</strong>*, Jialong Wu*, Ningya Feng, Jianmin Wang, Mingsheng Long#
+    conference_short: arXiv
+    conference: arXiv preprint, 2023
+    arxiv: https://arxiv.org/abs/2310.00344
+    bibtex: https://manchery.github.io/assets/pub/arxiv2023_harmonywm/bibtex.txt
+    image: https://manchery.github.io/assets/pub/arxiv2023_harmonywm/thumbnail.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning"
+    authors: Jialong Wu*, <strong>Haoyu Ma</strong>*, Chaoyi Deng, Mingsheng Long#
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023. (Accepted)
+    arxiv: https://arxiv.org/abs/2305.18499
+    code: https://github.com/thuml/ContextWM
+    blog: https://mp.weixin.qq.com/s/EZD0Lj87Rzml58NKJ-Gsdw
+    bibtex: https://manchery.github.io/assets/pub/nips2023_contextwm/bibtex.txt
+    image: https://manchery.github.io/assets/pub/nips2023_contextwm/thumbnail.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Scheduling Approach for Aircraft Assembly Pulsation Production Lines with Deep Reinforcement Learning and Knowledge Transfer"
+    authors: Jincheng Zhong*, <strong>Haoyu Ma</strong>*, Jianmin Wang#, Mingsheng Long#
+    conference_short: SSI
+    conference: SCIENTIA SINICA Informationis (中国科学：信息科学) <strong>(SSI)</strong>, 2023. (Accepted)
+    pdf: https://dds.sciengine.com/cfs/files/pdfs/view/1674-7267/6FE1600AED3344FD92B2D1F641B7373E-mark.pdf
+    bibtex: https://earthring.github.io/assets/pub/ssi2023_assembly/bibtex.txt
+    image: https://earthring.github.io/assets/pub/ssi2023_assembly/thumbnail.png
+
+  - title: "Bi-Tuning: Efficient Transfer from Pre-Trained Models"
+    authors: Jincheng Zhong, <strong>Haoyu Ma</strong>, Ximei Wang, Zhi Kou, Mingsheng Long#
+    conference_short: ECML
+    conference: European Conference on Machine Learning <strong>(ECML)</strong>, 2023.
+    pdf: http://ise.thss.tsinghua.edu.cn/~mlong/doc/bi-tuning-ecml23.pdf
+    bibtex: https://earthring.github.io/assets/pub/ecml2023_bituning/bibtex.txt
+    image: https://earthring.github.io/assets/pub/ecml2023_bituning/thumbnail.png
+    code: https://github.com/ConnorZhong/Bi-Tuning

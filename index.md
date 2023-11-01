@@ -20,4 +20,6 @@ Before that, I received my Bachelor’s degree in Software Engineering at Tsingh
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/awards.md %}
+
 {% include_relative _includes/services.md %}

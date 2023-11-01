@@ -54,7 +54,7 @@
 
 {% endfor %}
 
-_*Equal Contribution, #Corresponding Author_
+*Equal Contribution, #Corresponding Author
 
 </ol>
 </div>

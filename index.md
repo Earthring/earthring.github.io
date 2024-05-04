@@ -15,8 +15,7 @@ Before that, I received my Bachelor’s degree in Software Engineering at Tsingh
 
 ## News
 
-- **[Sept. 2023]** Our paper about model-based reinforcement learning is accepted to NeurIPS 2023.
-- **[Sept. 2023]** Our paper about reinforcement learning for scheduling is accepted to SCIENTIA SINICA Informationis (中国科学：信息科学).
+- **[May 2024]** Our paper about multi-task learning inside world models is accepted to ICML 2024.
 
 {% include_relative _includes/publications.md %}
 

@@ -23,7 +23,7 @@ main:
   - title: "Scheduling Approach for Aircraft Assembly Pulsation Production Lines with Deep Reinforcement Learning and Knowledge Transfer"
     authors: Jincheng Zhong*, <strong>Haoyu Ma</strong>*, Jianmin Wang#, Mingsheng Long#
     conference_short: SSI
-    conference: SCIENTIA SINICA Informationis (中国科学：信息科学) <strong>(SSI)</strong>, 2023. (Accepted)
+    conference: SCIENTIA SINICA Informationis (中国科学：信息科学) <strong>(SSI)</strong>, 2023.
     pdf: https://dds.sciengine.com/cfs/files/pdfs/view/1674-7267/6FE1600AED3344FD92B2D1F641B7373E-mark.pdf
     bibtex: https://earthring.github.io/assets/pub/ssi2023_scheduling/bibtex.txt
     image: https://earthring.github.io/assets/pub/ssi2023_scheduling/thumbnail.png

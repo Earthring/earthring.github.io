@@ -1,18 +1,21 @@
 main:
   - title: "Harmony World Models: Boosting Sample Efficiency for Model-based Reinforcement Learning"
-    authors:  <strong>Haoyu Ma</strong>*, Jialong Wu*, Ningya Feng, Jianmin Wang, Mingsheng Long#
-    conference_short: arXiv
-    conference: arXiv preprint, 2023
+    authors:  <strong>Haoyu Ma</strong>*, Jialong Wu*, Ningya Feng, Chenjun Xiao, Dong Li, Jianye Hao, Jianmin Wang, Mingsheng Long#
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024. (Accepted)
     arxiv: https://arxiv.org/abs/2310.00344
-    bibtex: https://manchery.github.io/assets/pub/arxiv2023_harmonywm/bibtex.txt
-    image: https://manchery.github.io/assets/pub/arxiv2023_harmonywm/thumbnail.png
+    talk: https://www.bilibili.com/video/BV1Tj421U7kk/
+    bibtex: https://manchery.github.io/assets/pub/icml2024_harmonydream/bibtex.txt
+    image: https://manchery.github.io/assets/pub/icml2024_harmonydream/thumbnail.png
 
   - title: "Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning"
     authors: Jialong Wu*, <strong>Haoyu Ma</strong>*, Chaoyi Deng, Mingsheng Long#
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023. (Accepted)
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     arxiv: https://arxiv.org/abs/2305.18499
     code: https://github.com/thuml/ContextWM
+    poster: https://manchery.github.io/assets/pub/nips2023_contextwm/poster.pdf
+    slides: https://manchery.github.io/assets/pub/nips2023_contextwm/slides.pdf
     blog: https://mp.weixin.qq.com/s/EZD0Lj87Rzml58NKJ-Gsdw
     bibtex: https://manchery.github.io/assets/pub/nips2023_contextwm/bibtex.txt
     image: https://manchery.github.io/assets/pub/nips2023_contextwm/thumbnail.png

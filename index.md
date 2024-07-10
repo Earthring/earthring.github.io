@@ -15,7 +15,8 @@ Before that, I received my Bachelor’s degree in Software Engineering at Tsingh
 
 ## News
 
-- **[May 2024]** Our paper about multi-task learning inside world models is accepted to ICML 2024.
+- **[May 2024]** Our paper on world model optimization is accepted by ICML 2024.
+- **[Sept. 2023]** Our paper on world model pre-training is accepted by NeurIPS 2023.
 
 {% include_relative _includes/publications.md %}
 

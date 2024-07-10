@@ -1,10 +1,14 @@
 main:
-  - title: "Harmony World Models: Boosting Sample Efficiency for Model-based Reinforcement Learning"
+  - title: "HarmonyDream: Task Harmonization Inside World Models"
     authors:  <strong>Haoyu Ma</strong>*, Jialong Wu*, Ningya Feng, Chenjun Xiao, Dong Li, Jianye Hao, Jianmin Wang, Mingsheng Long#
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024. (Accepted)
+    pdf: https://arxiv.org/abs/2310.00344
     arxiv: https://arxiv.org/abs/2310.00344
-    talk: https://www.bilibili.com/video/BV1Tj421U7kk/
+    code: https://github.com/thuml/HarmonyDream
+    slides: https://manchery.github.io/assets/pub/icml2024_harmonydream/slides.pdf
+    talk: https://www.bilibili.com/video/BV1b4421X7RP
+    blog: https://mp.weixin.qq.com/s/2Oi0cMyIczfiV7cy3cgq9w
     bibtex: https://manchery.github.io/assets/pub/icml2024_harmonydream/bibtex.txt
     image: https://manchery.github.io/assets/pub/icml2024_harmonydream/thumbnail.png
 
@@ -12,6 +16,7 @@ main:
     authors: Jialong Wu*, <strong>Haoyu Ma</strong>*, Chaoyi Deng, Mingsheng Long#
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/hash/7ce1cbededb4b0d6202847ac1b484ee8-Abstract-Conference.html
     arxiv: https://arxiv.org/abs/2305.18499
     code: https://github.com/thuml/ContextWM
     poster: https://manchery.github.io/assets/pub/nips2023_contextwm/poster.pdf

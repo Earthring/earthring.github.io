@@ -2,10 +2,11 @@ main:
   - title: "HarmonyDream: Task Harmonization Inside World Models"
     authors:  <strong>Haoyu Ma</strong>*, Jialong Wu*, Ningya Feng, Chenjun Xiao, Dong Li, Jianye Hao, Jianmin Wang, Mingsheng Long#
     conference_short: ICML
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024. (Accepted)
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/abs/2310.00344
     arxiv: https://arxiv.org/abs/2310.00344
     code: https://github.com/thuml/HarmonyDream
+    poster: https://manchery.github.io/assets/pub/icml2024_harmonydream/poster.pdf
     slides: https://manchery.github.io/assets/pub/icml2024_harmonydream/slides.pdf
     talk: https://www.bilibili.com/video/BV1b4421X7RP
     blog: https://mp.weixin.qq.com/s/2Oi0cMyIczfiV7cy3cgq9w

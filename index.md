@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Master student (from fall, 2022) at [Machine Learning Group (THUML)](https://github.com/thuml), School of Software, Tsinghua University, 
+I am an incoming algorithm engineer at Tiktok Shop, ByteDance. I am currently completing my final year as a Master student (from fall, 2022) at [Machine Learning Group (THUML)](https://github.com/thuml), School of Software, Tsinghua University, 
 advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
 Before that, I received my Bachelor’s degree in Software Engineering at Tsinghua University.
 
